@@ -1,0 +1,3 @@
+- Estudo praticado após cursos básicos de JavaScript & Jquery
+
+- Popovers, Tooltips, Modal, Collapses, Scrollspy, Carrossel, 
